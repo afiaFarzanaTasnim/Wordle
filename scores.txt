@@ -1,0 +1,8 @@
+
+
+ABCD 10
+XYZ 8
+
+ABCD 10
+AJSN 0
+AFIA 12
